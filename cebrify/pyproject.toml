@@ -1,0 +1,18 @@
+[cebrify]
+name = "cebrify_bekircbc"
+version = "0.0.1"
+authors = [
+  { name="bekircbc", email="b.burakcebecii@gmail.com" },
+]
+description = "A small package for calculating some features and reading files data'"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/bekircbc/cebrify"
+"Bug Tracker" = "https://github.com/bekircbc/cebrify/issues"
